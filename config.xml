@@ -2,11 +2,12 @@
 <widget id="com.salavat.NmapCheatSheet" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>NmapCheatSheet</name>
     <description>
-        A blank PhoneGap app.
+        An app bringing you mostly using Nmap commands
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="salavat@asia.com" href="https://github.com/slavatulaev">
+        Salavat Ulaev
     </author>
     <content src="index.html" />
     <access origin="*" />
 </widget>
+
